@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.2.0"
   },
   "devDependencies": {
     "@eslint/compat": "^1.2.5",
